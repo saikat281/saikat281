@@ -8,20 +8,20 @@
 
 ###
 
-<img align="right" height="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+<img align="right" height="330" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
 
 ###
 
-<div style="font-size: 30px; font-weight: bold" align="left">About Me</div>
+### 👨‍💻About Me
+<hr>
 
-###
 
 <p align="left">🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently Exploring advanced React, backend architecture<br>🚀 From interactive e-commerce platforms to real-time applications, I love working on projects that challenge me to think creatively and optimize performance. </p>
 
 ###
 
-<div style="font-size: 30px; font-weight: bold; " align= left >Skills</div>
-
+### ⚡Skills
+<hr>
 
 
 <div align="left">
@@ -48,8 +48,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
-###
+<hr>
 
+###
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat281&" alt="saikat281" /></p>
+</div>
 
 ###
 
@@ -66,17 +70,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikat281/saikat281/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saikat281/saikat281/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-
-###
-<h1 align="left">Social</h1>
-<div align="left">
-  <a href="https://www.linkedin.com/in/saikat-sarkar-cse/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
 
 
