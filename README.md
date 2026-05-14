@@ -51,26 +51,22 @@
 <hr>
 
 ###
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikat281&" alt="saikat281" /></p>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saikat281&theme=dark&hide_border=false" />
+</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats-gamma-lilac-18.vercel.app/api?username=saikat281&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-gamma-lilac-18.vercel.app/api/top-langs?username=saikat281&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=saikat281&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikat281/saikat281/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikat281/saikat281/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saikat281/saikat281/output/pacman-contribution-graph.svg">
-</picture>
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=saikat281&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 
 ###
