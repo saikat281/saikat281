@@ -52,6 +52,7 @@
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
  
 </div>
 
@@ -60,6 +61,7 @@
 ###
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saikat281&theme=dark&hide_border=false" />
+ 
 </p>
 
 ###
